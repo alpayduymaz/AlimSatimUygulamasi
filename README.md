@@ -1,1 +1,2 @@
-# Al-mSat-mUygulamas-
+# AlimSatimUygulamasi
+# Used object-oriented programming and mssql database
