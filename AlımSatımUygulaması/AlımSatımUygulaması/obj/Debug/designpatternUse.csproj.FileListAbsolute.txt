@@ -1,0 +1,42 @@
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\bin\Debug\designpatternUse.exe.config
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\bin\Debug\designpatternUse.exe
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\bin\Debug\designpatternUse.pdb
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.csprojAssemblyReference.cache
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.Giris.resources
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.Properties.Resources.resources
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.csproj.GenerateResource.cache
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.csproj.CoreCompileInputs.cache
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.exe
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.pdb
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.BilgiGiris.resources
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.ParaOnay.resources
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.SatisOnay.resources
+C:\Users\alpay\source\repos\designpatternUse\designpatternUse\obj\Debug\designpatternUse.Profil.resources
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\bin\Debug\designpatternUse.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\bin\Debug\designpatternUse.exe
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\bin\Debug\designpatternUse.pdb
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.csprojAssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.BilgiGiris.resources
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.Giris.resources
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.ParaOnay.resources
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.Profil.resources
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.SatisOnay.resources
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.exe
+C:\Users\aliha\OneDrive\Masaüstü\designpatternUse\designpatternUse\obj\Debug\designpatternUse.pdb
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\bin\Debug\designpatternUse.exe.config
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\bin\Debug\designpatternUse.exe
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\bin\Debug\designpatternUse.pdb
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.csprojAssemblyReference.cache
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.BilgiGiris.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.Giris.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.ParaOnay.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.Profil.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.Properties.Resources.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.SatisOnay.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.csproj.GenerateResource.cache
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.csproj.CoreCompileInputs.cache
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.exe
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.pdb

@@ -1,0 +1,15 @@
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\bin\Debug\designpatternUse.exe.config
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\bin\Debug\designpatternUse.exe
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\bin\Debug\designpatternUse.pdb
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\YazilimYapimiVize.csprojAssemblyReference.cache
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\YazilimYapimizVize.BilgiGiris.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\YazilimYapimizVize.Giris.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\YazilimYapimizVize.ParaOnay.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\YazilimYapimizVize.Profil.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.Properties.Resources.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\YazilimYapimizVize.SatisOnay.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\YazilimYapimizVize.UrunOnay.resources
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\YazilimYapimiVize.csproj.GenerateResource.cache
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\YazilimYapimiVize.csproj.CoreCompileInputs.cache
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.exe
+C:\Users\alpay\OneDrive\Masaüstü\yazıloım yapımı\designpatternUse\designpatternUse\obj\Debug\designpatternUse.pdb
